@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "cluster_4",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "cluster": "4", "start_x": 601343.22429999989, "start_y": 5342144.5412000008, "end_x": 588500.54310000036, "end_y": 5344296.9931000005, "cnt": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 16.364512999521835, 48.224424001198585 ], [ 16.192086999475272, 48.245707001074507 ] ] } },
+{ "type": "Feature", "properties": { "cluster": "4", "start_x": 601413.739, "start_y": 5341090.4573, "end_x": 587582.44280000031, "end_y": 5344267.584000001, "cnt": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 16.36521000049785, 48.214932000998665 ], [ 16.179716999782933, 48.245570001146135 ] ] } },
+{ "type": "Feature", "properties": { "cluster": "4", "start_x": 601591.73070000019, "start_y": 5339088.4638, "end_x": 589802.68730000034, "end_y": 5345773.7555999998, "cnt": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 16.36712599951764, 48.196897001251493 ], [ 16.209935999820576, 48.258807000544728 ] ] } },
+{ "type": "Feature", "properties": { "cluster": "4", "start_x": 602706.83820000011, "start_y": 5342319.6908999998, "end_x": 590390.9863, "end_y": 5346122.5889, "cnt": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 16.382910000135329, 48.225780001133259 ], [ 16.217934999623917, 48.261861001279414 ] ] } },
+{ "type": "Feature", "properties": { "cluster": "4", "start_x": 602778.0137, "start_y": 5339430.8965000007, "end_x": 588032.71040000021, "end_y": 5341935.524, "cnt": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 16.383167999371821, 48.199786001243588 ], [ 16.185295999775295, 48.224531000784758 ] ] } },
+{ "type": "Feature", "properties": { "cluster": "4", "start_x": 602778.0137, "start_y": 5339430.8965000007, "end_x": 588090.86969999969, "end_y": 5344003.8180999998, "cnt": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 16.383167999371821, 48.199786001243588 ], [ 16.186509000336919, 48.243127001003799 ] ] } },
+{ "type": "Feature", "properties": { "cluster": "4", "start_x": 602778.0137, "start_y": 5339430.8965000007, "end_x": 589203.63109999988, "end_y": 5345476.847, "cnt": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 16.383167999371821, 48.199786001243588 ], [ 16.201804000492416, 48.256221000798263 ] ] } },
+{ "type": "Feature", "properties": { "cluster": "4", "start_x": 602792.23170000035, "start_y": 5341860.1544000003, "end_x": 588831.11890000012, "end_y": 5345093.7002000008, "cnt": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ 16.383947999585914, 48.221633001105054 ], [ 16.196705999854277, 48.252827001258304 ] ] } }
+]
+}

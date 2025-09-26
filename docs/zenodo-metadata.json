@@ -1,0 +1,12 @@
+{
+  "title": "Vienna Forest Recreation OD Flow Clusters",
+  "description": "Self-contained interactive Leaflet map + per-cluster GeoJSONs reproducing the SCS manuscript results.",
+  "creators": [
+    {
+      "name": "Your Name",
+      "affiliation": "University of Vienna"
+    }
+  ],
+  "keywords": ["DBSCAN", "OD flows", "Vienna", "recreation", "urban forests", "spatial clustering"],
+  "license": "CC-BY-4.0"
+}
